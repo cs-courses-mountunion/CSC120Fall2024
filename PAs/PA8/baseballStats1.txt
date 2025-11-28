@@ -13,7 +13,6 @@ Dunn, Adam # 462 # .237 # 1631 # 1168 # 63
 Encarnacion, Edwin # 424 # .260 # 1832 # 1261 # 61
 Evans, Darrell # 414 # .248 # 2223 # 1354 # 98
 Foxx, Jimmie # 534 # .325 # 2646 # 1922 # 87
-Galarraga, Andres # 399 # .288 # 2333 # 1425 # 128
 Gehrig, Lou # 493 # .340 # 2721 # 1995 # 102
 Giambi, Jason # 440 # .277 # 2010 # 1441 # 20
 Gonzalez, Juan # 434 # .295 # 1936 # 1404 # 26
@@ -49,11 +48,12 @@ Sheffield, Gary # 509 # .292 # 2689 # 1676 # 253
 Snider, Duke # 407 # .295 # 2116 # 1333 # 99
 Soriano, Alfonso # 412 # .270 # 2095 # 1159 # 289
 Sosa, Sammy # 609 # .273 # 2408 # 1667 # 234
-Stanton, Giancarlo # 420 # .259 # 1518 # 1076 # 42
+Stanton, Giancarlo # 453 # .258 # 1619 # 1169 # 42
 Stargell, Willie # 475 # .282 # 2232 # 1540 # 17
 Teixeira, Mark # 409 # .268 # 1862 # 1298 # 26
 Thome, Jim # 612 # .276 # 2328 # 1699 # 19
 Thomas, Frank # 521 # .301 # 2468 # 1704 # 32
+Trout, Mike # 404 # .294 # 1754 # 1018 # 214
 Williams, Billy # 426 # .290 # 2711 # 1475 # 90
 Williams, Ted # 521 # .344 # 2654 # 1839 # 24
 Winfield, Dave # 465 # .283 # 3110 # 1833 # 223
